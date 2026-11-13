@@ -1,6 +1,6 @@
 # warkurr's Homebrew Tap
 
-Official Homebrew tap for [AniMac](https://github.com/warkurr/AniMac) and macOS software by [@warkurr](https://github.com/warkurr).
+Official Homebrew tap for [AniMac](https://github.com/warkurr/AniMac-Releases) and macOS software by [@warkurr](https://github.com/warkurr).
 
 ## Installation
 
