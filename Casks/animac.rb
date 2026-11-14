@@ -1,11 +1,11 @@
 cask "animac" do
   version "0.3.0"
-  sha256 "840a6c337bec18b59c38e5d63e4546b194ad8aa7a218e4dbaaf267c098651cb5"
+  sha256 "925b0fa35f0b1f2d77670a4f1ab47f4939606434d9991fb5bbf5719838943259"
 
-  url "https://github.com/warkurr/AniMac-Releases/releases/download/v#{version}/AniMac.dmg"
+  url "https://github.com/warkurr/AniMac/releases/download/v#{version}/AniMac.dmg"
   name "AniMac"
   desc "Native macOS client for AniList"
-  homepage "https://github.com/warkurr/AniMac-Releases"
+  homepage "https://github.com/warkurr/AniMac"
 
   livecheck do
     url :url
