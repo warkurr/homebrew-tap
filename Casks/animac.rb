@@ -1,6 +1,6 @@
 cask "animac" do
-  version "0.3.1"
-  sha256 "a73a4e1b9ee19b9af12afb61ed30900d2a52a1c9cf6bcecfc57ded4dab397464"
+  version "0.4.0"
+  sha256 "fedd858dd57bea8de8fd7b70a4842a4214d23ebf647a38290c9bdc026b394303"
 
   url "https://github.com/warkurr/AniMac/releases/download/v#{version}/AniMac.dmg"
   name "AniMac"
